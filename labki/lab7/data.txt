@@ -1,0 +1,2 @@
+Task 7 some text for encrypt
+12 345
